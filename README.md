@@ -20,4 +20,4 @@
 如有清洗后的版本愿意分享，欢迎提交Pull Request或开Issue讨论。
 
  许可证
-CC BY-NC-SA 4.0（见LICENSE文件）
+本作品采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可证，允许自由使用、分享和改编，包括商业用途，只需署名原作者。
